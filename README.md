@@ -76,6 +76,7 @@ Released under the [MIT][license] © [Drake Costa][personal-website]
 [ci-badge]: https://github.com/Saeris/remark-del/actions/workflows/ci.yml/badge.svg
 [npm]: https://www.npmjs.org/package/@saeris/remark-del
 [npm-badge]: https://img.shields.io/npm/v/@saeris/remark-del.svg?style=flat
+[unified]: https://github.com/unifiedjs/unified
 [remark]: https://github.com/remarkjs/remark
 [remark-ins]: https://github.com/ipikuka/remark-ins
 [license]: ./LICENSE.md
