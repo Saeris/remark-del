@@ -1,4 +1,4 @@
-# ❌ remark-del [![Build Status][ci-badge]][ci] [![npm][npm-badge]][npm]
+# ➖ remark-del [![Build Status][ci-badge]][ci] [![npm][npm-badge]][npm]
 
 A [unified][unified] / ([remark][remark]) plugin which adds syntax support for the HTML `<del>` element in markdown.
 
